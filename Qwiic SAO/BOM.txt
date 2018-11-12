@@ -1,0 +1,17 @@
+Partlist
+
+Exported from Qwiic_SAO.brd at 26/10/2018 7:23 PM
+
+EAGLE Version 9.1.2 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package       Library             Position (mil)        Orientation
+
+J1                      1X02          SparkFun-Connectors (450 75)              R90
+J2                      1X02          SparkFun-Connectors (550 175)             R270
+J3                      1X02          SparkFun-Connectors (180 125)             R180
+J5       JST-SH-4P      SM04B-SRSS-TB Connector           (500 440)             R180
+R1       470            0603          SparkFun-Resistors  (300 235)             R180
+R4                      R0603         RCL                 (520 255)             R0
+R5                      R0603         RCL                 (635 225)             R90
